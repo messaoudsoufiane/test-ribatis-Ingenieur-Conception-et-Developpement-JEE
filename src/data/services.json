@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "title": "gestion cartes",
+    "owner": "EcoLib",
+    "logo": "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
+    "dateAdded": "2024-01-15",
+    "category": "Finance"
+  },
+  {
+    "id": 2,
+    "title": "aa",
+    "owner": "Guichet PROD",
+    "logo": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
+    "dateAdded": "2024-01-20",
+    "category": "Administration"
+  },
+  {
+    "id": 3,
+    "title": "TIC",
+    "owner": "TE Connectivity",
+    "logo": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
+    "dateAdded": "2024-01-10",
+    "category": "Technologie"
+  },
+  {
+    "id": 4,
+    "title": "app34",
+    "owner": "Guichet PROD",
+    "logo": "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
+    "dateAdded": "2024-01-25",
+    "category": "Mobile"
+  },
+  {
+    "id": 5,
+    "title": "Service Bancaire",
+    "owner": "BankTech",
+    "logo": "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
+    "dateAdded": "2024-01-12",
+    "category": "Finance"
+  },
+  {
+    "id": 6,
+    "title": "E-Commerce",
+    "owner": "ShopSmart",
+    "logo": "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
+    "dateAdded": "2024-01-18",
+    "category": "Commerce"
+  },
+  {
+    "id": 7,
+    "title": "Télémédecine",
+    "owner": "HealthTech",
+    "logo": "https://images.pexels.com/photos/3184317/pexels-photo-3184317.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
+    "dateAdded": "2024-01-22",
+    "category": "Santé"
+  },
+  {
+    "id": 8,
+    "title": "Formation en ligne",
+    "owner": "EduPlatform",
+    "logo": "https://images.pexels.com/photos/3184394/pexels-photo-3184394.jpeg?auto=compress&cs=tinysrgb&w=100&h=100&fit=crop",
+    "dateAdded": "2024-01-08",
+    "category": "Éducation"
+  }
+]
