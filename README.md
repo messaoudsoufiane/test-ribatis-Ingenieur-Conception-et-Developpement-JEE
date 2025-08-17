@@ -59,9 +59,6 @@ npm run dev
 3. **Ouvrir dans le navigateur**
 Le projet sera accessible à l'adresse qui s'affichera dans votre terminal (généralement `http://localhost:3000`)
 
-C'est tout ! Votre catalogue de services est maintenant opérationnel. 🎉"owner": "Propriétaire",
-    "dateAdded": "2024-01-01",
-    "lastModified": "2024-01-15"
   }
 ]
 ```
@@ -94,58 +91,6 @@ npm test
 npm run eject
 ```
 
-## 🎨 Personnalisation
-
-### Couleurs
-- **Primaire** : Bleu (`blue-600`)
-- **Secondaire** : Vert (`green-600`)
-- **Neutre** : Gris (`gray-*`)
-
-### Responsive breakpoints
-- `sm`: 640px et plus
-- `lg`: 1024px et plus
-- `xl`: 1280px et plus
-- `2xl`: 1536px et plus
-
-## 🚦 États de l'application
-
-### Messages d'état
-- **Aucun service trouvé** : Quand la recherche ne retourne rien
-- **Aucun service favori** : Quand aucun favori n'est défini
-- **Compteurs dynamiques** : Mise à jour en temps réel
-
-### Gestion des erreurs
-- Valeurs par défaut pour les propriétés manquantes
-- Vérification de l'existence des données avant traitement
-
-## 🤝 Contribution
-
-1. Fork le projet
-2. Crée une branche pour ta fonctionnalité (`git checkout -b feature/nouvelle-fonctionnalite`)
-3. Commit tes changements (`git commit -m 'Ajouter nouvelle fonctionnalité'`)
-4. Push vers la branche (`git push origin feature/nouvelle-fonctionnalité`)
-5. Ouvre une Pull Request
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 🐛 Signaler un bug
-
-Si vous trouvez un bug, veuillez créer une issue avec :
-- Description du problème
-- Étapes pour reproduire
-- Comportement attendu vs observé
-- Screenshots si applicable
-
-## ✨ Fonctionnalités à venir
-
-- [ ] Filtres avancés (catégories, dates)
-- [ ] Sauvegarde des favoris dans localStorage
-- [ ] Mode sombre
-- [ ] Export des données
-- [ ] Notifications push
-- [ ] Recherche par tags
 
 ---
 
